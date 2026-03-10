@@ -1,0 +1,15 @@
+# Soneium Smart Contract Examples
+
+Example smart contracts for developers experimenting with the Soneium blockchain.
+
+## Contents
+
+contracts/
+examples/
+tests/
+
+## Topics
+
+- token contracts
+- staking contracts
+- governance contracts
