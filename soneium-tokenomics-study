@@ -1,0 +1,21 @@
+# Soneium Tokenomics Study
+
+Research and documentation exploring token economic models used in the Soneium ecosystem.
+
+## Topics
+
+- token supply mechanisms
+- staking incentives
+- governance models
+- ecosystem rewards
+
+## Structure
+
+tokenomics/
+analysis/
+case-studies/
+charts/
+
+## Goals
+
+Understand how token economic systems function within blockchain ecosystems.
