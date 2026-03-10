@@ -1,0 +1,10 @@
+# Soneium API Examples
+
+Examples demonstrating how to interact with Soneium blockchain nodes and APIs.
+
+## Topics
+
+- wallet balance queries
+- transaction history
+- smart contract calls
+- node communication
