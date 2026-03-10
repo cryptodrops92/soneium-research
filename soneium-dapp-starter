@@ -1,0 +1,17 @@
+# Soneium DApp Starter
+
+Starter template for building decentralized applications on the Soneium blockchain.
+
+## Features
+
+- Web3 integration
+- wallet connection
+- smart contract interaction
+- frontend example
+
+## Structure
+
+frontend/
+contracts/
+scripts/
+docs/
