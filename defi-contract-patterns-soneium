@@ -1,0 +1,10 @@
+# DeFi Contract Patterns for Soneium
+
+Examples of smart contract patterns commonly used in DeFi protocols.
+
+## Patterns
+
+- staking systems
+- liquidity pools
+- reward distribution
+- governance modules
